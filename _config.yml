@@ -103,10 +103,10 @@ author:
   name             : *name
   avatar           : "/assets/images/avatar.png"
   bio              : "Software Engineer"
-  location         : "London, United Kingdom"
+  location         : # "London, United Kingdom"
   email            :
   uri              : https://zkarampa.github.io
-  home             : https://zkarampa.github.io # null (default), "absolute or relative url to link to author home"
+  home             : /about # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -198,7 +198,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
