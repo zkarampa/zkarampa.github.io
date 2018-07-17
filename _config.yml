@@ -105,7 +105,7 @@ author:
   bio              : "Software Engineer"
   location         : # "London, United Kingdom"
   email            :
-  uri              : https://zkarampa.github.io
+  uri              : # https://zkarampa.github.io
   home             : /about # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
