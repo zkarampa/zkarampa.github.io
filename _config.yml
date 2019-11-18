@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Simple Man"
+title                    : "Zisis Karampaglis"
 title_separator          : "-"
 name                     : &name "Zisis Karampaglis"
 description              : "A blog about programming and other..."
