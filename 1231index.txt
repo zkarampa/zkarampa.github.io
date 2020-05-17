@@ -1,0 +1,25 @@
+---
+layout: splash
+classes:
+  - landing
+permalink: /
+title: "Hi, I'm Zisis!"
+header:
+  overlay_color: "#252A34"
+  cta_label: "Learn More"
+  cta_url: "/blog"
+excerpt: 'This is my personal website.'
+
+intro:
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
+---
+<!-- overlay_color: "#a52A34" -->
+<!-- {% include feature_row id="intro" type="center" %} -->
+<!-- header:
+  overlay_color: "#252A34"
+  overlay_filter: "0.1"
+  cta_label: "Learn More"
+  cta_url: "/blog"
+  caption: -->
+
+  <!-- Hi -->
