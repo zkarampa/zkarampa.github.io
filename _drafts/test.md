@@ -1,16 +1,14 @@
 ---
-title: "December Lorem ipsum"
+title: December Lorem ipsum
 categories:
-  - Software Development
+- Software Development
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+- content
+- css
+- edge case
+- lists
+- markup
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet ligula ac augue congue tincidunt. Sed porta libero in eleifend congue. Phasellus ut mi risus. Nunc at metus odio. Sed nisi augue, maximus et mi eu, sagittis ullamcorper lorem. Etiam eget dui nec ex laoreet bibendum. Praesent nec diam commodo mauris eleifend aliquam sit amet quis sapien. Aliquam lobortis nunc diam, nec ullamcorper dui mollis vitae. Suspendisse pulvinar ipsum ut velit dapibus consectetur.
 
 Proin nec congue neque. Proin volutpat non urna a rutrum. Phasellus porta ipsum at lacus tempus commodo. Pellentesque a sapien vitae odio sollicitudin luctus id quis risus. Phasellus venenatis imperdiet ex vitae feugiat. Sed scelerisque laoreet arcu, non ullamcorper sem suscipit ac. Fusce non leo sed nisl venenatis porta. Integer quis felis quis ante tincidunt iaculis non et turpis.
