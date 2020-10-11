@@ -273,6 +273,8 @@ defaults:
       comments: false
       share: true
       related: false
+      sidebar:
+        - title: <a class="twitter-timeline" data-height="500" data-theme="dark" href="https://twitter.com/zkarampa?ref_src=twsrc%5Etfw">Tweets by zkarampa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   # _pages
   - scope:
